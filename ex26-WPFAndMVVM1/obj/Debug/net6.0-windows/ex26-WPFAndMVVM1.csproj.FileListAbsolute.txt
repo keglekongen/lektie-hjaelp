@@ -19,3 +19,24 @@ D:\GitHub\ex26-WPFAndMVVM1\obj\Debug\net6.0-windows\refint\ex26-WPFAndMVVM1.dll
 D:\GitHub\ex26-WPFAndMVVM1\obj\Debug\net6.0-windows\ex26-WPFAndMVVM1.pdb
 D:\GitHub\ex26-WPFAndMVVM1\obj\Debug\net6.0-windows\ex26-WPFAndMVVM1.genruntimeconfig.cache
 D:\GitHub\ex26-WPFAndMVVM1\obj\Debug\net6.0-windows\ref\ex26-WPFAndMVVM1.dll
+C:\Users\chris\source\repos\GitHub\lektie hjælp\lektie-hjaelp\ex26-WPFAndMVVM1\bin\Debug\net6.0-windows\ex26-WPFAndMVVM1.exe
+C:\Users\chris\source\repos\GitHub\lektie hjælp\lektie-hjaelp\ex26-WPFAndMVVM1\bin\Debug\net6.0-windows\ex26-WPFAndMVVM1.deps.json
+C:\Users\chris\source\repos\GitHub\lektie hjælp\lektie-hjaelp\ex26-WPFAndMVVM1\bin\Debug\net6.0-windows\ex26-WPFAndMVVM1.runtimeconfig.json
+C:\Users\chris\source\repos\GitHub\lektie hjælp\lektie-hjaelp\ex26-WPFAndMVVM1\bin\Debug\net6.0-windows\ex26-WPFAndMVVM1.dll
+C:\Users\chris\source\repos\GitHub\lektie hjælp\lektie-hjaelp\ex26-WPFAndMVVM1\bin\Debug\net6.0-windows\ex26-WPFAndMVVM1.pdb
+C:\Users\chris\source\repos\GitHub\lektie hjælp\lektie-hjaelp\ex26-WPFAndMVVM1\obj\Debug\net6.0-windows\ex26-WPFAndMVVM1.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\GitHub\lektie hjælp\lektie-hjaelp\ex26-WPFAndMVVM1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\chris\source\repos\GitHub\lektie hjælp\lektie-hjaelp\ex26-WPFAndMVVM1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\chris\source\repos\GitHub\lektie hjælp\lektie-hjaelp\ex26-WPFAndMVVM1\obj\Debug\net6.0-windows\ex26-WPFAndMVVM1_MarkupCompile.cache
+C:\Users\chris\source\repos\GitHub\lektie hjælp\lektie-hjaelp\ex26-WPFAndMVVM1\obj\Debug\net6.0-windows\ex26-WPFAndMVVM1_MarkupCompile.lref
+C:\Users\chris\source\repos\GitHub\lektie hjælp\lektie-hjaelp\ex26-WPFAndMVVM1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\chris\source\repos\GitHub\lektie hjælp\lektie-hjaelp\ex26-WPFAndMVVM1\obj\Debug\net6.0-windows\ex26-WPFAndMVVM1.g.resources
+C:\Users\chris\source\repos\GitHub\lektie hjælp\lektie-hjaelp\ex26-WPFAndMVVM1\obj\Debug\net6.0-windows\ex26-WPFAndMVVM1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\GitHub\lektie hjælp\lektie-hjaelp\ex26-WPFAndMVVM1\obj\Debug\net6.0-windows\ex26-WPFAndMVVM1.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\GitHub\lektie hjælp\lektie-hjaelp\ex26-WPFAndMVVM1\obj\Debug\net6.0-windows\ex26-WPFAndMVVM1.AssemblyInfo.cs
+C:\Users\chris\source\repos\GitHub\lektie hjælp\lektie-hjaelp\ex26-WPFAndMVVM1\obj\Debug\net6.0-windows\ex26-WPFAndMVVM1.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\GitHub\lektie hjælp\lektie-hjaelp\ex26-WPFAndMVVM1\obj\Debug\net6.0-windows\ex26-WPFAndMVVM1.dll
+C:\Users\chris\source\repos\GitHub\lektie hjælp\lektie-hjaelp\ex26-WPFAndMVVM1\obj\Debug\net6.0-windows\refint\ex26-WPFAndMVVM1.dll
+C:\Users\chris\source\repos\GitHub\lektie hjælp\lektie-hjaelp\ex26-WPFAndMVVM1\obj\Debug\net6.0-windows\ex26-WPFAndMVVM1.pdb
+C:\Users\chris\source\repos\GitHub\lektie hjælp\lektie-hjaelp\ex26-WPFAndMVVM1\obj\Debug\net6.0-windows\ex26-WPFAndMVVM1.genruntimeconfig.cache
+C:\Users\chris\source\repos\GitHub\lektie hjælp\lektie-hjaelp\ex26-WPFAndMVVM1\obj\Debug\net6.0-windows\ref\ex26-WPFAndMVVM1.dll

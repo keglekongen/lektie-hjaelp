@@ -9,15 +9,17 @@ namespace ex26_WPFAndMVVM1
 {
     public class MainViewModel : INotifyPropertyChanged
     {
+        private string myLabelText;
+
         public string MyLabelText
         {
             get
             {
-                return MyLabelText;
+                return myLabelText;
             }
             set
             {
-                MyLabelText = value;
+                myLabelText = value;
                 OnPropertyChanged("MyLabelText");
             }
         }
